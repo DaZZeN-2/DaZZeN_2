@@ -33,7 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
- ######
+ ###
+ ###
  
 <div align="center">
   <a href="https://www.linkedin.com/in/maksim-kolyada/" target="_blank">
@@ -43,8 +44,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
+ ###
+ ###
 <div align="center">
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 </div>
+ ###
